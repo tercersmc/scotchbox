@@ -2,7 +2,7 @@
 
 # Update server
 apt-get update
-apt-get upgrade -y 
+# Instalar phpmyadmin, otros servicion vienen por defecto con scotch box
 echo 'phpmyadmin phpmyadmin/dbconfig-install boolean true' | debconf-set-selections
 echo 'phpmyadmin phpmyadmin/app-password-confirm password root' | debconf-set-selections
 echo 'phpmyadmin phpmyadmin/mysql/admin-pass password root' | debconf-set-selections
