@@ -71,7 +71,7 @@ Luego de un rato su entorno virtual estara en marcha,
 
 **El Password de Mysql y demas es "root" (sin las comillas) **
 
-Para informacion en detalle verificar la documentacion de cada una de las aplicaciones aqui mensionadas
+Para informacion en detalle verificar la documentacion de cada una de las aplicaciones aqui mencionadas
 
 ##  [Vagrant][2]  [virtualBox][1]  [Git][3]  [GitHub][4]  [Scotch Box][5]
 
