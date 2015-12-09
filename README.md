@@ -43,11 +43,13 @@ Luego de un rato su entorno virtual estara en marcha,
 - Node
 - NPM
 - Mcrypt
+- PhpMyAdmin
 
 ### Database Stuff
 - MySQL
 - PostgreSQL
 - SQLite
+- MongoDB
 
 ### Caching Stuff
 
